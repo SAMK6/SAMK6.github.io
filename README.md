@@ -1,2 +1,2 @@
 # SAMK6.github.io
-My website
+My profession website
