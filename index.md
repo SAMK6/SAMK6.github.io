@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Samuel Feldman
+title: Home
 ---
 
 ![A headshot of me graduating from undergrad](/assets/images/headshot.png)
