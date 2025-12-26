@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  color: white;
   font-family: system-ui, sans-serif;
   max-width: 800px;
   margin: 40px auto;
