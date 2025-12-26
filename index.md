@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![A headshot of me graduating from undergrad](/assets/images/headshot.png)
+![A headshot of me graduating from undergrad](assets/images/headshot.png)
 
 
 ## About Me
