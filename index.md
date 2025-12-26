@@ -3,7 +3,7 @@ layout: default
 title: Samuel Feldman
 ---
 
-![A headshot of me graduating from undergrad](/assets/images/headshot.jpg)
+![A headshot of me graduating from undergrad](/assets/images/headshot.png)
 
 
 ## About Me
