@@ -8,4 +8,4 @@ title: Samuel Feldman
 
 ## About Me
 
-I am a computer scientist
+I am a computer scientist from the U of A.
