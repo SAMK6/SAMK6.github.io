@@ -1,9 +1,9 @@
 html {
   background-color: #00323f;
+  color: white;
 }
 
 body {
-  color: white;
   font-family: system-ui, sans-serif;
   max-width: 800px;
   margin: 40px auto;
